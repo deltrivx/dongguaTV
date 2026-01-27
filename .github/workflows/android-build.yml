@@ -9,7 +9,7 @@ on:
       server_url:
         description: 'Server URL (e.g. https://your-site.com)'
         required: true
-        default: 'http://154.217.241.151:6100/'
+        default: 'https://www.deltrivx.com:6443'
       app_name:
         description: 'App Name'
         required: true
