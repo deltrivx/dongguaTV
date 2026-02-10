@@ -46,7 +46,7 @@ export default {
                 status: 'ok',
                 message: 'TMDB Proxy is running',
                 usage: {
-                    api: '/api/3/movie/popular?api_key=YOUR_KEY&language=zh-CN',
+                    api: '/api/3/movie/popular?api_key=3b7f120a44136aa3cc8b8c971332a84f&language=zh-CN',
                     image: '/t/p/w500/YOUR_IMAGE_PATH.jpg'
                 }
             }, null, 2), {
